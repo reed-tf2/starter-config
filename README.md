@@ -6,7 +6,7 @@ If all you want to do are small things, such as creating an [Uber Bind](https://
 
 1. Download
    - [Starter Config](https://github.com/rufio-tf2/starter-config/archive/master.zip)
-   - [Starter Config (For Mastercomfig)](https://github.com/rufio-tf2/starter-config/archive/for-mastercomfig.zip)
+   - [Starter Config (For Mastercomfig)](https://github.com/rufio-tf2/starter-config/archive/v2-for-mastercomfig.zip)
 1. Unzip it
 1. Navigate into the `starter-config-for-mastercomfig` folder, and move the `user` folder inside into your `tf/cfg` folder
 1. Navigate into this `user` folder (`tf/cfg/user`) to add your configurations
