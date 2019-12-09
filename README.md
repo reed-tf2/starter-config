@@ -2,6 +2,12 @@
 
 ## Install
 
+**Note:** The `tf` folder is typically located at:
+
+```
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf
+```
+
 0. Remove any custom stuff that you added to your `tf/cfg` folder (`medic.cfg`, `autoexec.cfg`, etc.)
 1. [Download](https://github.com/rufio-tf2/starter-config/archive/for-murph.zip) this repo
 1. Unzip it
