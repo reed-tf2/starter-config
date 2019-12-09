@@ -7,5 +7,5 @@
 1. Unzip it
 1. If your folder structure is `starter-config-for-murph/starter-config-for-murph` save the inner folder and delete the outer folder
 1. Move the remaining folder into your `tf/custom` folder
-1. Navigate into the `cfg` folder: `tf/custom/starter-config-for-murph/cfg` to add your configurations
+1. Use this config's `cfg` folder for future customizations (instead of `tf/cfg`): `tf/custom/starter-config-for-murph/cfg`
 1. Feel free to rename the folder `starter-config-for-murph`.
